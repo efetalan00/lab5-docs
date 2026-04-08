@@ -1,0 +1,18 @@
+﻿{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "User Management API",
+    "version": "1.0.0",
+    "description": "Lab 5 kapsamında oluşturulan interaktif API dokümantasyonu"
+  },
+  "paths": {
+    "/register": {
+      "post": {
+        "summary": "Yeni kullanıcı kaydeder",
+        "responses": {
+          "201": { "description": "Başarılı" }
+        }
+      }
+    }
+  }
+}

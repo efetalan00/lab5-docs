@@ -1,0 +1,7 @@
+﻿{
+  "entryPoints": ["src/index.ts"],
+  "out": "public",
+  "name": "Proje Dokümantasyonu",
+  "includeVersion": true,
+  "localize": "tr"
+}
